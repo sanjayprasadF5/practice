@@ -39,3 +39,4 @@ console.log(i, j, k)
 const newArray = [1, 2, 3]
 const [m, n] = newArray
 console.log(m, n)
+console.log("Destrucitng Done")
